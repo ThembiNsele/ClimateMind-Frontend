@@ -30,6 +30,7 @@ const PrivacyPolicy: React.FC = () => {
       '& h2': {
         fontSize: '32px',
         fontWeight: 900,
+        textTransform: 'uppercase',
       },
       '& h3': {
         fontFamily: 'atten-round-new',
